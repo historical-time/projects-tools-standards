@@ -27,6 +27,12 @@ An annotated list of projects, tools, and standards related to the representatio
     * [HuTime Calendars](http://www.hutime.org/basicdata/calendar/calendars/)
     * [HuTime Calendars Linked Data](http://datetime.hutime.org/)
     * [HuTime Calendar Conversion Tool](http://www.hutime.org/basicdata/calendar/form.html)
+
+* **Shanati**
+
+    Shanati is working to compile and integrate all known relevant cuneiform and other textual attestations of dates relevant to the ancient daily Babylonian chronology.
+    
+    * [Shanati](http://www.shanati.org)
     
 ## Modeling tools
 
