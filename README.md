@@ -28,14 +28,6 @@ An annotated list of projects, tools, and standards related to the representatio
     * [HuTime Calendars Linked Data](http://datetime.hutime.org/)
     * [HuTime Calendar Conversion Tool](http://www.hutime.org/basicdata/calendar/form.html)
     
-## Periods
-
-* **iDAI ChronOntology**
-
-    iDAI.chronontology (short form: ChronOntology) is a web service that connects chronological terms, i.e. epochs, periods and events, with dating information. Hosted by the German Archaeological Institute (DAI) and part of the iDAI.welt, ChronOntology is an internet research tool for the Archaeology and Altertumswissenschaft (ancient studies and literature). Anyone can refer to its data, and anyone can add their additional project-specific or research-specific data on request. At the DAI, ChronOntology is the standard gazetteer for period names. Like the iDAI.gazetteer for place names, it serves as a norm data vocabulary for other information systems at the DAI and links them with other global time gazetteer systems.
-    
-    * [ChronOntology](https://chronontology.dainst.org)
-
 ## Modeling tools
 
 * **ChronoLog Chronological Toolkit**
@@ -56,6 +48,14 @@ An annotated list of projects, tools, and standards related to the representatio
     
     * [HuTime Time Information System Software](http://www.hutime.org/hutime/index.html)
     
+## Periods
+
+* **iDAI ChronOntology**
+
+    iDAI.chronontology (short form: ChronOntology) is a web service that connects chronological terms, i.e. epochs, periods and events, with dating information. Hosted by the German Archaeological Institute (DAI) and part of the iDAI.welt, ChronOntology is an internet research tool for the Archaeology and Altertumswissenschaft (ancient studies and literature). Anyone can refer to its data, and anyone can add their additional project-specific or research-specific data on request. At the DAI, ChronOntology is the standard gazetteer for period names. Like the iDAI.gazetteer for place names, it serves as a norm data vocabulary for other information systems at the DAI and links them with other global time gazetteer systems.
+    
+    * [ChronOntology](https://chronontology.dainst.org)
+
 ## Standards
 
 * **CIDOC Conceptual Reference Model**
