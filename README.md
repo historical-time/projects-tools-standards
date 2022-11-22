@@ -19,6 +19,12 @@ An annotated list of projects, tools, and standards related to the representatio
     * [Time Authority Database](https://authority.dila.edu.tw/time/)
     * [Documentation of the Time Authority Database](https://wiki.dila.edu.tw/pages/法鼓佛教學院時間規範資料庫說明：Notes_on_the_DDBC_Time_Authority_Database)
     
+* **Geologic Time Scale (2020)**
+
+    RDF representation of the Geologic Time Scale, as defined in the International Chronostratigraphic Chart (ICC) from the International Commission on Stratigraphy (ICS). The ICC embraces both chronostratigraphic (time-rock) units and their equivalent geochronologic (geologic-time) units, the former being related to the ‘Stratigraphic points’ referred to below, and the latter (geochronologic units) being employed in this RDF representation.
+    
+    * [Geologic Time Scale (2020)](http://resource.geosciml.org/vocabulary/timescale/gts2020)
+
 * **HuTime Time Basic Data**
 
     Calendars are often different between countries, regions and cultures. This means a possibility that date expressions have to be converted to expressions according to the common calendar when various temporal information are analized. Tools and data for calendar conversion are provided here.
