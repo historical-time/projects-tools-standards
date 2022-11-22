@@ -78,6 +78,12 @@ HuTime is a time information system software application that can help users vis
 
 * [HuTime Time Information System Software](http://www.hutime.org/hutime/index.html)
 
+### Matrix
+
+The Matrix investigates how digital data from archaeological excavations can be more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR). In particular, the work addresses the lack of standardised approaches to the digital archiving and reuse of archaeological data stratigraphic and phasing data.
+
+* [The Matrix](https://stratigraphic.github.io/matrix/)
+
 ## Periods
 
 ### iDAI ChronOntology
