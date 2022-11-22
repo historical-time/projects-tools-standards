@@ -4,6 +4,13 @@ An annotated list of projects, tools, and standards related to the representatio
 
 ## Calendars / dating systems
 
+* **ACDH-CH Linked Open Date Entities (LODE)**
+
+    ACDH-CH Linked Open Date Entities (LODE) is a data service to provide information about (historical) dates, using Linked Open Data (LOD) techniques. Currently, the entities provide lookups for the time concepts for the precision of day, month, year, decade, century, and millennium. For practical reasons, the 1st implementation covers 6000 years between 3000 BC/BCE and AD/CE 3000 based on ISO8601.
+    
+    * [Linked Open Date Entities](https://vocabs.dariah.eu/date_entities/en/)
+    * [Linked Open Date Entities Unit of Time](https://vocabs.dariah.eu/ut_entities/en/)
+
 * **Buddhist Studies Time Authority Databases**
 
     These databases integrate information from various projects at the Library and Information Center at Dharma Drum Institute of Liberal Arts. By providing information on Chinese calendar dates they help with disambiguation and referencing of dates.
