@@ -123,6 +123,12 @@ The Linked Places format supercedes the Pelagios Gazetteer Interconnection Forma
 
 * [Linked Places Format](https://github.com/LinkedPasts/linked-places-format)
 
+### Vocabularies Consortium Chronology Working Group
+
+The documentation available from the Chronology Working Group of the Vocabularies Consortium is intended as a set of minimum best practice guidelines for structuring and linking metadata collections pertaining to chronological knowledge in cuneiform studies. Documentation provided below for individual data entities offers guidance on the alignment and linking of relevant metadata records to external reference indices in order to improve data interoperability, discoverability, and reuse.
+
+* [Chronology Working Group](https://cdli-gh.github.io/glow_vocabularies/chronology.html)
+
 ### Wikidata Dates
 
 Wikidata offers a series of properties with datatype time, which allow storage of basic information defining single point in time. Time datatype can be further expanded with custom qualifiers to allow great range of possible time expressions. Adding and querying dates may seem simple, but available precision and changing calendars add complexity.
