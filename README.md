@@ -39,6 +39,12 @@ An annotated list of projects, tools, and standards related to the representatio
     Shanati is working to compile and integrate all known relevant cuneiform and other textual attestations of dates relevant to the ancient daily Babylonian chronology.
     
     * [Shanati](http://www.shanati.org)
+
+* **Trismegistos Time**
+
+    A database of chronological aspects of texts from the ancient world. TM Time is still in its initial phase. Right now it should be seen as a tool to convert dates from old calendar systems to new and vice-versa, which also facilitates finding texts dated to specific periods in Trismegistos.
+    
+    * [Trismegistos Time](https://www.trismegistos.org/time/)
     
 ## Modeling / visualization tools
 
