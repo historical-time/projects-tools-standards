@@ -40,7 +40,13 @@ An annotated list of projects, tools, and standards related to the representatio
     
     * [Shanati](http://www.shanati.org)
     
-## Modeling tools
+## Modeling / visualization tools
+
+* **Aeon Timeline**
+
+    Present historical events along an interactive visual timeline. Record precise times or use broad, uncertain dates. Map events to historical figures or important theories and movements. See individual timelines for specific people and concepts.
+    
+    * [Aeon Timeline](https://timeline.app)
 
 * **ChronoLog Chronological Toolkit**
 
