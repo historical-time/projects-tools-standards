@@ -72,5 +72,13 @@ An annotated list of projects, tools, and standards related to the representatio
     
     * [Definition of the CIDOC CRM (version 7.2.2, September 2022)](https://www.cidoc-crm.org/sites/default/files/cidoc_crm_version_7.2.2%5B20%20Oct%5D.pdf)
     * [Excerpt from the CRM definition focusing on the temporal modeling constructs](documents/CIDOC%20CRM%20SIG%20-%202022%20-%20Temporal%20relations.pdf)
+
+* **Extended Date/Time Format (EDTF)**
+
+    The Extended Date and Time Format (EDTF) was developed at the Library of Congress and is now incorporated into the ISO 8601 standard for representing dates and times. EDTF specifies a standard syntax for expressing uncertain or approximate Gregorian calendar dates, dates with missing parts, sets of possible dates, and open-ended or recurring intervals of time.
+    
+    * [Extended Date/Time Format](https://www. loc.gov/standards/datetime/)
+    * [ISO 8601-2:2019 Date and time — Representations for information interchange — Part 2: Extensions](https://www.iso.org/standard/70908.html)
+    * [EDTF Ontology](https://periodo.github.io/edtf-ontology/)
     
 
