@@ -56,6 +56,14 @@ An annotated list of projects, tools, and standards related to the representatio
     
     * [ChronOntology](https://chronontology.dainst.org)
 
+* **PeriodO**
+
+    PeriodO is a public domain gazetteer of scholarly definitions of historical, art-historical, and archaeological periods. It eases the task of linking among datasets that define periods differently. It also helps scholars and students see where period definitions overlap or diverge.
+    
+    * [PeriodO documentation](https://perio.do/)
+    * [Browse PeriodO](https://client.perio.do/?page=backend-home&backendID=web-https%3A%2F%2Fdata.perio.do%2F)
+    * [Data samples](https://github.com/historical-time/data-samples/tree/main/periodo)
+
 ## Standards
 
 * **CIDOC Conceptual Reference Model**
