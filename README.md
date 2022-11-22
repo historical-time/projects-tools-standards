@@ -111,4 +111,11 @@ The Extended Date and Time Format (EDTF) was developed at the Library of Congres
 * [ISO 8601-2:2019 Date and time — Representations for information interchange — Part 2: Extensions](https://www.iso.org/standard/70908.html)
 * [EDTF Ontology](https://periodo.github.io/edtf-ontology/)
 
+### Wikidata Dates
+
+Wikidata offers a series of properties with datatype time, which allow storage of basic information defining single point in time. Time datatype can be further expanded with custom qualifiers to allow great range of possible time expressions. Adding and querying dates may seem simple, but available precision and changing calendars add complexity.
+
+* [Wikidata Help: Dates](https://www.wikidata.org/wiki/Help:Dates)
+* [List of Wikidata properties that take time values](https://www.wikidata.org/wiki/Special:ListProperties/time)
+
 
