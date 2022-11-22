@@ -25,6 +25,12 @@ An annotated list of projects, tools, and standards related to the representatio
     
     * [Geologic Time Scale (2020)](http://resource.geosciml.org/vocabulary/timescale/gts2020)
 
+* **Graph of Dated Objects and Texts (GODOT)**
+
+    The aim of this graph database system is to create and maintain a gazetteer of calendar dates in different calendar systems, initially those used in Greek and Roman antiquity across the mediterranean area, and provide links to attestations of these dates in online editions. Like geographical gazetteers this authority list can be used to provide stable, unique identifiers (URIs) for each date in any of the calendar systems that has been used to refer to an astronomical day in any ancient source, whether literary texts, papyri, ostraca or inscriptions. It will serve as a means to search and browse ancient texts by their precise temporal footprint using these URIs in digital editions and databases or TEI/EpiDoc XML driven projects. Currently there are some 5,800 dates in the database, based on more than 7,000 attestations, from a number of different ancient calendar and dating systems.
+    
+    * [Graph of Dated Objects and Texts (GODOT)](https://godot.date)
+
 * **HuTime Time Basic Data**
 
     Calendars are often different between countries, regions and cultures. This means a possibility that date expressions have to be converted to expressions according to the common calendar when various temporal information are analized. Tools and data for calendar conversion are provided here.
