@@ -117,6 +117,12 @@ The Extended Date and Time Format (EDTF) was developed at the Library of Congres
 * [ISO 8601-2:2019 Date and time — Representations for information interchange — Part 2: Extensions](https://www.iso.org/standard/70908.html)
 * [EDTF Ontology](https://periodo.github.io/edtf-ontology/)
 
+### Linked Places Format
+
+The Linked Places format supercedes the Pelagios Gazetteer Interconnection Format (PGIF) as a standard for contributions to several partner projects in the Pelagios Network including Recogito, Peripleo-lite, the World Historical Gazetteer, and PeriodO. It is an implementation of GeoJSON-T, an experimental extension to GeoJSON that standardizes the representation of temporal attributes, and it provides for optional temporal scoping of names, geometry, place types, and place relations.
+
+* [Linked Places Format](https://github.com/LinkedPasts/linked-places-format)
+
 ### Wikidata Dates
 
 Wikidata offers a series of properties with datatype time, which allow storage of basic information defining single point in time. Time datatype can be further expanded with custom qualifiers to allow great range of possible time expressions. Adding and querying dates may seem simple, but available precision and changing calendars add complexity.
