@@ -77,7 +77,7 @@ An annotated list of projects, tools, and standards related to the representatio
 
     The Extended Date and Time Format (EDTF) was developed at the Library of Congress and is now incorporated into the ISO 8601 standard for representing dates and times. EDTF specifies a standard syntax for expressing uncertain or approximate Gregorian calendar dates, dates with missing parts, sets of possible dates, and open-ended or recurring intervals of time.
     
-    * [Extended Date/Time Format](https://www. loc.gov/standards/datetime/)
+    * [Extended Date/Time Format](https://www.loc.gov/standards/datetime/)
     * [ISO 8601-2:2019 Date and time — Representations for information interchange — Part 2: Extensions](https://www.iso.org/standard/70908.html)
     * [EDTF Ontology](https://periodo.github.io/edtf-ontology/)
     
