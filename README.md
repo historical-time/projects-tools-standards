@@ -123,6 +123,12 @@ The Linked Places format supercedes the Pelagios Gazetteer Interconnection Forma
 
 * [Linked Places Format](https://github.com/LinkedPasts/linked-places-format)
 
+### Time Ontology in OWL
+
+OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing the temporal properties of resources in the world or described in Web pages. The ontology provides a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information. Time positions and durations may be expressed using either the conventional (Gregorian) calendar and clock, or using another temporal reference system such as Unix-time, geologic time, or different calendars.
+
+* [Time Ontology in OWL](https://www.w3.org/TR/owl-time/)
+
 ### Vocabularies Consortium Chronology Working Group
 
 The documentation available from the Chronology Working Group of the Vocabularies Consortium is intended as a set of minimum best practice guidelines for structuring and linking metadata collections pertaining to chronological knowledge in cuneiform studies. Documentation provided below for individual data entities offers guidance on the alignment and linking of relevant metadata records to external reference indices in order to improve data interoperability, discoverability, and reuse.
