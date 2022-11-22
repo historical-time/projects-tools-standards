@@ -2,6 +2,11 @@
 
 An annotated list of projects, tools, and standards related to the representation of historical time.
 
+* [Calendars / dating systems](#calendars--dating-systems)
+* [Modeling / visualization tools](#modeling--visualization-tools)
+* [Periods](#periods)
+* [Standards](#standards)
+
 ## Calendars / dating systems
 
 ### ACDH-CH Linked Open Date Entities (LODE)
