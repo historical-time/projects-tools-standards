@@ -70,6 +70,7 @@ Present historical events along an interactive visual timeline. Record precise t
 ChronoLog is a software tool for chronological research in archaeology. It allows users to build complex models featuring chronological sequences, bounds on dates and durations, and various types of synchronisms. The software automatically checks the validity of such models, and computes the tightest possible chronological ranges for the date and duration of each chronological object in the  model.
 
 * [ChronoLog](https://chrono.ulb.be)
+* [Data samples](https://github.com/historical-time/data-samples/tree/main/ChronoLog)
 
 ### ChronoVis: Paintbox
 
@@ -92,6 +93,7 @@ The Matrix project has developed software to support stratigraphic analysis and 
 * [The Matrix](https://stratigraphic.github.io/matrix/)
 * [Phaser - prototype Grouping and Phasing software tool](https://stratigraphic.github.io/phaser-app/)
 * [Help file explaining more of the functionality of the Phaser software](https://stratigraphic.github.io/phaser-app/help.html)
+* [Data samples](https://github.com/historical-time/data-samples/tree/main/phaser)
 
 ## Periods
 
