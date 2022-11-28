@@ -87,7 +87,11 @@ HuTime is a time information system software application that can help users vis
 
 The Matrix investigates how digital data from archaeological excavations can be more consistently recorded, analysed, disseminated and archived in a way that is Findable, Accessible, Interoperable and Re-useable (FAIR). In particular, the work addresses the lack of standardised approaches to the digital archiving and reuse of archaeological data stratigraphic and phasing data.
 
+The Matrix project has developed software to support stratigraphic analysis and temporal analysis - Phasing, Grouping and Periodization - by archaeologists using Harris Matrix methodologies. The prototype software tool is called "Phaser". The Prototype _is not intended currently to be fully functioning_ Matrix recording and Stratigraphic Phasing analysis and archiving software. It would need more development and administrative work and resources to make it available e.g. as Open and FAIR software through an online tool with suitable registration for an archaeological community of users.
+
 * [The Matrix](https://stratigraphic.github.io/matrix/)
+* [Phaser - prototype Grouping and Phasing software tool](https://stratigraphic.github.io/phaser-app/)
+* [Help file explaining more of the functionality of the Phaser software](https://stratigraphic.github.io/phaser-app/help.html)
 
 ## Periods
 
