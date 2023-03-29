@@ -152,6 +152,7 @@ The documentation available from the Chronology Working Group of the Vocabularie
 Wikidata offers a series of properties with datatype time, which allow storage of basic information defining single point in time. Time datatype can be further expanded with custom qualifiers to allow great range of possible time expressions. Adding and querying dates may seem simple, but available precision and changing calendars add complexity.
 
 * [Wikidata Help: Dates](https://www.wikidata.org/wiki/Help:Dates)
+* [List of Wikidata properties that take time values](https://www.wikidata.org/wiki/Special:ListProperties/time)
 
 ## Temporal annotation / entity recognition
 
@@ -167,8 +168,3 @@ Python tool to normalize textual temporal expressions in different languages to 
 Experimental multilingual spaCy tools for rule-based Named Entity Recognition (NER) on abstracts and texts relating to archaeological investigations. Comprises a specialised temporal annotator and a vocabulary annotator. The languages currently supported are German, English, Spanish, French , Italian, Dutch, Norwegian, Swedish. A suite of spaCy ‘patterns’ has been developed as Python modules together with a series of specialised NER pipeline components to identify and tag various types of temporal entity within passages of free text. Bulk processing scripts and Python notebooks are included to demonstrate usage and to highlight aspects of the available functionality.
 
 * [rematch2](https://github.com/cbinding/rematch2)
-
-
-
-
-* [List of Wikidata properties that take time values](https://www.wikidata.org/wiki/Special:ListPr
