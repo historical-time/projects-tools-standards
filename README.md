@@ -6,6 +6,7 @@ An annotated list of projects, tools, and standards related to the representatio
 * [Modeling / visualization tools](#modeling--visualization-tools)
 * [Periods](#periods)
 * [Standards](#standards)
+* [Temporal annotation / entity recognition](#temporal-annotation--entity-recognition)
 
 ## Calendars / dating systems
 
@@ -151,6 +152,23 @@ The documentation available from the Chronology Working Group of the Vocabularie
 Wikidata offers a series of properties with datatype time, which allow storage of basic information defining single point in time. Time datatype can be further expanded with custom qualifiers to allow great range of possible time expressions. Adding and querying dates may seem simple, but available precision and changing calendars add complexity.
 
 * [Wikidata Help: Dates](https://www.wikidata.org/wiki/Help:Dates)
-* [List of Wikidata properties that take time values](https://www.wikidata.org/wiki/Special:ListProperties/time)
+
+## Temporal annotation / entity recognition
+
+### yearspans
+
+Python tool to normalize textual temporal expressions in different languages to a numerical time axis. Textual patterns for seven categories of temporal expression are normalized: Ordinal named or numbered centuries, Year spans; Single year (with tolerance); Decades; Century spans; Single year with prefix; Named periods. The following languages are currently supported: Dutch, English, French, German, Italian, Norwegian, Spanish, Swedish, Welsh. The input is a temporal text string and a language code (ISO639-1). The output is a tab delimited text file with start/end years (in ISO 8601 format), relative to Common Era (CE). The normalized outputs are provided as additional attributes along with the original text expression for consuming software to employ in end-user applications.
+
+* [yearspans](https://github.com/cbinding/yearspans)
+* [Automatic Normalization of Temporal Expressions](https://doi.org/10.5334/jcaa.105)
+
+### rematch2
+
+Experimental multilingual spaCy tools for rule-based Named Entity Recognition (NER) on abstracts and texts relating to archaeological investigations. Comprises a specialised temporal annotator and a vocabulary annotator. The languages currently supported are German, English, Spanish, French , Italian, Dutch, Norwegian, Swedish. A suite of spaCy ‘patterns’ has been developed as Python modules together with a series of specialised NER pipeline components to identify and tag various types of temporal entity within passages of free text. Bulk processing scripts and Python notebooks are included to demonstrate usage and to highlight aspects of the available functionality.
+
+* [rematch2](https://github.com/cbinding/rematch2)
 
 
+
+
+* [List of Wikidata properties that take time values](https://www.wikidata.org/wiki/Special:ListPr
